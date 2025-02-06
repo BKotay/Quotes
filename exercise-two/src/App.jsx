@@ -1,6 +1,6 @@
 // src/App.jsx
 import React from 'react';
-import Quotes from './components/Quotes.jsx';
+import Quotes from './components/QuoteDisplay.jsx';
 
 function App() {
   return (
